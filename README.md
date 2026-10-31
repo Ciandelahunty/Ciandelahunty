@@ -2,13 +2,13 @@
 
 I'm currently pursuing an MSc in Financial Mathematics at UCL, following an MA in Economics at the University of Edinburgh and two years as a graduate analyst at HSBC. I'm interested in quantitative research, systematic trading, and macro investing.
 
+**Modules at UCL Include:** Forecasting, Interest Rates and Credit Modelling, Market Risk and Portfolio Theory, Stochastic Processes, Applied Computational Finance, Mathematics and Statistics of Algorithmic Trading
+
 ## Research interests
 
 - **Market microstructure and price efficiency:** Order books, Liquidity and Transaction costs
 - **Systematic investing:** Portfolio Construction, Rebalancing and Backtesting
 - **Statistics and econometrics:** Time series, Forecasting and Survival analysis
-
-## **Modules at UCL Include:** Forecasting, Interest Rates and Credit Modelling, Market Risk and Portfolio Theory, Stochastic Processes, Applied Computational Finance, Mathematics and Statistics of Algorithmic Trading
 
 ## Featured Projects and Experience
 
