@@ -22,10 +22,6 @@ I'm currently pursuing an MSc in Financial Mathematics at UCL, following an MA i
 - **Languages:** Python (pandas, NumPy), SQL, R, Stata
 - **Tools:** Git, Linux, VS Code
 
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/cian-delahunty) · cian.delahunty@gmail.com
-
 <!--
 **Ciandelahunty/Ciandelahunty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
