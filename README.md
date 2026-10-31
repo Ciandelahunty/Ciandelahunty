@@ -8,7 +8,7 @@ I'm currently pursuing an MSc in Financial Mathematics at UCL, following an MA i
 - **Systematic investing:** Portfolio Construction, Rebalancing and Backtesting
 - **Statistics and econometrics:** Time series, Forecasting and Survival analysis
 
-##**Modules at UCL Include:** Forecasting, Interest Rates and Credit Modelling, Market Risk and Portfolio Theory, Stochastic Processes, Applied Computational Finance, Mathematics and Statistics of Algorithmic Trading
+## **Modules at UCL Include:** Forecasting, Interest Rates and Credit Modelling, Market Risk and Portfolio Theory, Stochastic Processes, Applied Computational Finance, Mathematics and Statistics of Algorithmic Trading
 
 ## Featured Projects and Experience
 
